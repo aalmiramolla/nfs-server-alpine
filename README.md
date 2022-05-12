@@ -1,6 +1,10 @@
 # nfs-server-alpine
 
-A handy NFS Server image comprising Alpine Linux and NFS v4 only, over TCP on port 2049.
+A handy NFS Server image comprising Alpine Linux and NFS
+
+## Notes
+
+This fork do NFS v2 and v3 available
 
 ## Overview
 
